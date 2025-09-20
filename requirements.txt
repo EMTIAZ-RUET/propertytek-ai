@@ -1,0 +1,29 @@
+# Minimal requirements for PropertyTek LangGraph
+# Install in this order to avoid conflicts
+
+# Core dependencies (install first)
+python-dotenv
+requests
+python-dateutil
+
+# Pydantic (must be compatible with LangGraph)
+pydantic>=2.7.4
+
+# FastAPI stack
+fastapi
+uvicorn
+
+# OpenAI
+openai
+
+# External services
+twilio
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+redis
+
+# LangGraph stack (install last)
+langchain-core
+langchain-openai
+langgraph

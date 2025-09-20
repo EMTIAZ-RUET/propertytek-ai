@@ -1,0 +1,1454 @@
+[
+  {
+    "id": 1,
+    "address": "643 Apple Avenue, Austin, TX",
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "rent": 1744,
+    "pets": "dogs allowed",
+    "amenities": [
+      "balcony",
+      "garden",
+      "parking"
+    ],
+    "available": true
+  },
+  {
+    "id": 2,
+    "address": "778 Grape Circle, Dallas, TX",
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "rent": 2598,
+    "pets": "cats and dogs allowed",
+    "amenities": [
+      "balcony",
+      "garden",
+      "gym",
+      "parking"
+    ],
+    "available": true
+  },
+  {
+    "id": 3,
+    "address": "486 Violet Lane, Houston, TX",
+    "bedrooms": 1,
+    "bathrooms": 2,
+    "rent": 1169,
+    "pets": "no pets",
+    "amenities": [
+      "gym",
+      "laundry",
+      "parking",
+      "pool"
+    ],
+    "available": true
+  },
+  {
+    "id": 4,
+    "address": "843 Cherry Street, Dallas, TX",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "rent": 1131,
+    "pets": "cats and dogs allowed",
+    "amenities": [
+      "balcony",
+      "garden",
+      "gym",
+      "laundry",
+      "parking"
+    ],
+    "available": true
+  },
+  {
+    "id": 5,
+    "address": "708 Peach Drive, Austin, TX",
+    "bedrooms": 1,
+    "bathrooms": 2,
+    "rent": 900,
+    "pets": "cats allowed",
+    "amenities": [
+      "parking",
+      "pool"
+    ],
+    "available": true
+  },
+  {
+    "id": 6,
+    "address": "682 Fennel Circle, San Antonio, TX",
+    "bedrooms": 1,
+    "bathrooms": 2,
+    "rent": 900,
+    "pets": "no pets",
+    "amenities": [
+      "balcony",
+      "garden",
+      "gym",
+      "laundry",
+      "pool"
+    ],
+    "available": true
+  },
+  {
+    "id": 7,
+    "address": "895 Iris Lane, Houston, TX",
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "rent": 2092,
+    "pets": "cats and dogs allowed",
+    "amenities": [
+      "laundry",
+      "pool"
+    ],
+    "available": true
+  },
+  {
+    "id": 8,
+    "address": "828 Basil Trail, Austin, TX",
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "rent": 2465,
+    "pets": "cats and dogs allowed",
+    "amenities": [
+      "laundry",
+      "parking",
+      "pool"
+    ],
+    "available": true
+  },
+  {
+    "id": 9,
+    "address": "340 Rose Court, Austin, TX",
+    "bedrooms": 1,
+    "bathrooms": 2,
+    "rent": 1125,
+    "pets": "dogs allowed",
+    "amenities": [
+      "garden",
+      "gym",
+      "parking"
+    ],
+    "available": true
+  },
+  {
+    "id": 10,
+    "address": "822 Basil Avenue, Houston, TX",
+    "bedrooms": 3,
+    "bathrooms": 4,
+    "rent": 1765,
+    "pets": "cats and dogs allowed",
+    "amenities": [
+      "balcony",
+      "garden",
+      "pool"
+    ],
+    "available": true
+  },
+  {
+    "id": 11,
+    "address": "753 Elm Court, San Antonio, TX",
+    "bedrooms": 1,
+    "bathrooms": 2,
+    "rent": 948,
+    "pets": "cats and dogs allowed",
+    "amenities": [
+      "balcony",
+      "laundry",
+      "pool"
+    ],
+    "available": true
+  },
+  {
+    "id": 12,
+    "address": "309 Mango Boulevard, Dallas, TX",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "rent": 1371,
+    "pets": "dogs allowed",
+    "amenities": [
+      "balcony",
+      "gym",
+      "laundry",
+      "parking",
+      "pool"
+    ],
+    "available": true
+  },
+  {
+    "id": 13,
+    "address": "293 Cilantro Avenue, San Antonio, TX",
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "rent": 1506,
+    "pets": "cats and dogs allowed",
+    "amenities": [
+      "balcony",
+      "pool"
+    ],
+    "available": true
+  },
+  {
+    "id": 14,
+    "address": "219 Cilantro Street, Dallas, TX",
+    "bedrooms": 1,
+    "bathrooms": 2,
+    "rent": 928,
+    "pets": "cats allowed",
+    "amenities": [
+      "balcony",
+      "pool"
+    ],
+    "available": true
+  },
+  {
+    "id": 15,
+    "address": "908 Pine Court, Dallas, TX",
+    "bedrooms": 3,
+    "bathrooms": 4,
+    "rent": 1871,
+    "pets": "no pets",
+    "amenities": [
+      "gym",
+      "laundry",
+      "pool"
+    ],
+    "available": true
+  },
+  {
+    "id": 16,
+    "address": "802 Basil Lane, San Antonio, TX",
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "rent": 1954,
+    "pets": "cats allowed",
+    "amenities": [
+      "garden",
+      "laundry",
+      "pool"
+    ],
+    "available": true
+  },
+  {
+    "id": 17,
+    "address": "201 Oregano Boulevard, Austin, TX",
+    "bedrooms": 4,
+    "bathrooms": 1,
+    "rent": 2484,
+    "pets": "dogs allowed",
+    "amenities": [
+      "balcony",
+      "laundry",
+      "parking"
+    ],
+    "available": true
+  },
+  {
+    "id": 18,
+    "address": "296 Oregano Boulevard, Houston, TX",
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "rent": 2523,
+    "pets": "no pets",
+    "amenities": [
+      "garden",
+      "pool"
+    ],
+    "available": true
+  },
+  {
+    "id": 19,
+    "address": "231 Willow Avenue, Houston, TX",
+    "bedrooms": 2,
+    "bathrooms": 3,
+    "rent": 1232,
+    "pets": "no pets",
+    "amenities": [
+      "garden",
+      "parking",
+      "pool"
+    ],
+    "available": true
+  },
+  {
+    "id": 20,
+    "address": "987 Pine Way, San Antonio, TX",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "rent": 900,
+    "pets": "cats allowed",
+    "amenities": [
+      "garden",
+      "gym",
+      "parking",
+      "pool"
+    ],
+    "available": true
+  },
+  {
+    "id": 21,
+    "address": "125 Ash Court, Austin, TX",
+    "bedrooms": 1,
+    "bathrooms": 2,
+    "rent": 900,
+    "pets": "cats and dogs allowed",
+    "amenities": [
+      "garden",
+      "pool"
+    ],
+    "available": true
+  },
+  {
+    "id": 22,
+    "address": "406 Cedar Court, Dallas, TX",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "rent": 1923,
+    "pets": "dogs allowed",
+    "amenities": [
+      "balcony",
+      "gym",
+      "parking"
+    ],
+    "available": true
+  },
+  {
+    "id": 23,
+    "address": "523 Sage Boulevard, Austin, TX",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "rent": 1886,
+    "pets": "cats allowed",
+    "amenities": [
+      "balcony",
+      "gym",
+      "laundry",
+      "parking"
+    ],
+    "available": true
+  },
+  {
+    "id": 24,
+    "address": "601 Grape Circle, Austin, TX",
+    "bedrooms": 1,
+    "bathrooms": 2,
+    "rent": 1095,
+    "pets": "cats allowed",
+    "amenities": [
+      "balcony",
+      "laundry",
+      "parking",
+      "pool"
+    ],
+    "available": true
+  },
+  {
+    "id": 25,
+    "address": "922 Lemon Street, Dallas, TX",
+    "bedrooms": 2,
+    "bathrooms": 3,
+    "rent": 1458,
+    "pets": "no pets",
+    "amenities": [
+      "gym",
+      "laundry",
+      "parking",
+      "pool"
+    ],
+    "available": true
+  },
+  {
+    "id": 26,
+    "address": "649 Lily Street, Austin, TX",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "rent": 1510,
+    "pets": "cats allowed",
+    "amenities": [
+      "balcony",
+      "garden",
+      "pool"
+    ],
+    "available": true
+  },
+  {
+    "id": 27,
+    "address": "407 Apple Avenue, San Antonio, TX",
+    "bedrooms": 2,
+    "bathrooms": 3,
+    "rent": 1003,
+    "pets": "dogs allowed",
+    "amenities": [
+      "garden",
+      "laundry",
+      "parking",
+      "pool"
+    ],
+    "available": true
+  },
+  {
+    "id": 28,
+    "address": "836 Mango Lane, Dallas, TX",
+    "bedrooms": 1,
+    "bathrooms": 2,
+    "rent": 1222,
+    "pets": "dogs allowed",
+    "amenities": [
+      "garden",
+      "gym",
+      "laundry"
+    ],
+    "available": true
+  },
+  {
+    "id": 29,
+    "address": "809 Carnation Lane, Dallas, TX",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "rent": 1340,
+    "pets": "dogs allowed",
+    "amenities": [
+      "garden",
+      "gym",
+      "laundry"
+    ],
+    "available": true
+  },
+  {
+    "id": 30,
+    "address": "249 Cedar Place, Austin, TX",
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "rent": 2723,
+    "pets": "cats allowed",
+    "amenities": [
+      "balcony",
+      "garden",
+      "gym",
+      "parking",
+      "pool"
+    ],
+    "available": true
+  },
+  {
+    "id": 31,
+    "address": "925 Mango Court, Dallas, TX",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "rent": 1525,
+    "pets": "dogs allowed",
+    "amenities": [
+      "balcony",
+      "garden",
+      "gym",
+      "parking",
+      "pool"
+    ],
+    "available": true
+  },
+  {
+    "id": 32,
+    "address": "700 Apple Court, Dallas, TX",
+    "bedrooms": 2,
+    "bathrooms": 3,
+    "rent": 1570,
+    "pets": "cats and dogs allowed",
+    "amenities": [
+      "balcony",
+      "gym",
+      "parking",
+      "pool"
+    ],
+    "available": true
+  },
+  {
+    "id": 33,
+    "address": "457 Thyme Place, Dallas, TX",
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "rent": 2148,
+    "pets": "cats allowed",
+    "amenities": [
+      "balcony",
+      "gym"
+    ],
+    "available": true
+  },
+  {
+    "id": 34,
+    "address": "301 Parsley Place, Dallas, TX",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "rent": 1093,
+    "pets": "cats allowed",
+    "amenities": [
+      "balcony",
+      "gym",
+      "laundry",
+      "pool"
+    ],
+    "available": true
+  },
+  {
+    "id": 35,
+    "address": "552 Basil Drive, Austin, TX",
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "rent": 2478,
+    "pets": "cats allowed",
+    "amenities": [
+      "balcony",
+      "garden",
+      "laundry",
+      "parking"
+    ],
+    "available": true
+  },
+  {
+    "id": 36,
+    "address": "375 Willow Trail, Dallas, TX",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "rent": 1352,
+    "pets": "cats allowed",
+    "amenities": [
+      "balcony",
+      "gym",
+      "laundry"
+    ],
+    "available": true
+  },
+  {
+    "id": 37,
+    "address": "215 Banana Circle, Houston, TX",
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "rent": 1644,
+    "pets": "cats and dogs allowed",
+    "amenities": [
+      "garden",
+      "gym",
+      "parking",
+      "pool"
+    ],
+    "available": true
+  },
+  {
+    "id": 38,
+    "address": "752 Mango Place, Dallas, TX",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "rent": 1770,
+    "pets": "dogs allowed",
+    "amenities": [
+      "garden",
+      "laundry"
+    ],
+    "available": true
+  },
+  {
+    "id": 39,
+    "address": "988 Lily Lane, Austin, TX",
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "rent": 2635,
+    "pets": "cats allowed",
+    "amenities": [
+      "balcony",
+      "gym",
+      "laundry",
+      "pool"
+    ],
+    "available": true
+  },
+  {
+    "id": 40,
+    "address": "159 Chive Place, Dallas, TX",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "rent": 1171,
+    "pets": "no pets",
+    "amenities": [
+      "balcony",
+      "laundry",
+      "parking"
+    ],
+    "available": true
+  },
+  {
+    "id": 41,
+    "address": "380 Oregano Court, Houston, TX",
+    "bedrooms": 1,
+    "bathrooms": 2,
+    "rent": 900,
+    "pets": "dogs allowed",
+    "amenities": [
+      "balcony",
+      "gym",
+      "laundry",
+      "pool"
+    ],
+    "available": true
+  },
+  {
+    "id": 42,
+    "address": "907 Lime Trail, San Antonio, TX",
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "rent": 1949,
+    "pets": "no pets",
+    "amenities": [
+      "balcony",
+      "garden",
+      "gym",
+      "parking",
+      "pool"
+    ],
+    "available": true
+  },
+  {
+    "id": 43,
+    "address": "150 Mint Boulevard, San Antonio, TX",
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "rent": 2035,
+    "pets": "no pets",
+    "amenities": [
+      "balcony",
+      "parking"
+    ],
+    "available": true
+  },
+  {
+    "id": 44,
+    "address": "398 Basil Circle, Houston, TX",
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "rent": 2065,
+    "pets": "cats and dogs allowed",
+    "amenities": [
+      "garden",
+      "gym"
+    ],
+    "available": true
+  },
+  {
+    "id": 45,
+    "address": "300 Birch Circle, Dallas, TX",
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "rent": 2578,
+    "pets": "dogs allowed",
+    "amenities": [
+      "balcony",
+      "gym",
+      "parking"
+    ],
+    "available": true
+  },
+  {
+    "id": 46,
+    "address": "138 Birch Drive, Austin, TX",
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "rent": 2489,
+    "pets": "cats and dogs allowed",
+    "amenities": [
+      "balcony",
+      "garden",
+      "gym",
+      "parking",
+      "pool"
+    ],
+    "available": true
+  },
+  {
+    "id": 47,
+    "address": "975 Oak Place, Houston, TX",
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "rent": 2183,
+    "pets": "cats allowed",
+    "amenities": [
+      "garden",
+      "parking",
+      "pool"
+    ],
+    "available": true
+  },
+  {
+    "id": 48,
+    "address": "900 Oregano Place, San Antonio, TX",
+    "bedrooms": 1,
+    "bathrooms": 2,
+    "rent": 900,
+    "pets": "dogs allowed",
+    "amenities": [
+      "garden",
+      "parking"
+    ],
+    "available": true
+  },
+  {
+    "id": 49,
+    "address": "886 Mint Way, San Antonio, TX",
+    "bedrooms": 2,
+    "bathrooms": 3,
+    "rent": 1292,
+    "pets": "dogs allowed",
+    "amenities": [
+      "garden",
+      "gym",
+      "laundry",
+      "pool"
+    ],
+    "available": true
+  },
+  {
+    "id": 50,
+    "address": "430 Banana Way, Austin, TX",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "rent": 1207,
+    "pets": "cats and dogs allowed",
+    "amenities": [
+      "gym",
+      "laundry",
+      "parking"
+    ],
+    "available": true
+  },
+  {
+    "id": 51,
+    "address": "437 Poplar Drive, Dallas, TX",
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "rent": 2624,
+    "pets": "dogs allowed",
+    "amenities": [
+      "garden",
+      "gym",
+      "laundry",
+      "parking",
+      "pool"
+    ],
+    "available": true
+  },
+  {
+    "id": 52,
+    "address": "411 Oregano Street, Houston, TX",
+    "bedrooms": 2,
+    "bathrooms": 3,
+    "rent": 1399,
+    "pets": "dogs allowed",
+    "amenities": [
+      "balcony",
+      "garden",
+      "laundry",
+      "parking",
+      "pool"
+    ],
+    "available": true
+  },
+  {
+    "id": 53,
+    "address": "606 Violet Circle, Dallas, TX",
+    "bedrooms": 3,
+    "bathrooms": 4,
+    "rent": 2002,
+    "pets": "dogs allowed",
+    "amenities": [
+      "balcony",
+      "garden",
+      "gym",
+      "laundry",
+      "parking"
+    ],
+    "available": true
+  },
+  {
+    "id": 54,
+    "address": "647 Spruce Court, Austin, TX",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "rent": 1289,
+    "pets": "cats and dogs allowed",
+    "amenities": [
+      "garden",
+      "laundry",
+      "pool"
+    ],
+    "available": true
+  },
+  {
+    "id": 55,
+    "address": "941 Basil Avenue, Austin, TX",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "rent": 1851,
+    "pets": "cats allowed",
+    "amenities": [
+      "balcony",
+      "laundry"
+    ],
+    "available": true
+  },
+  {
+    "id": 56,
+    "address": "374 Iris Street, San Antonio, TX",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "rent": 1183,
+    "pets": "dogs allowed",
+    "amenities": [
+      "balcony",
+      "parking"
+    ],
+    "available": true
+  },
+  {
+    "id": 57,
+    "address": "572 Dill Avenue, Dallas, TX",
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "rent": 1995,
+    "pets": "cats and dogs allowed",
+    "amenities": [
+      "balcony",
+      "garden",
+      "laundry",
+      "pool"
+    ],
+    "available": true
+  },
+  {
+    "id": 58,
+    "address": "947 Sage Drive, San Antonio, TX",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "rent": 900,
+    "pets": "cats allowed",
+    "amenities": [
+      "balcony",
+      "gym",
+      "parking",
+      "pool"
+    ],
+    "available": true
+  },
+  {
+    "id": 59,
+    "address": "859 Birch Circle, Houston, TX",
+    "bedrooms": 1,
+    "bathrooms": 2,
+    "rent": 953,
+    "pets": "dogs allowed",
+    "amenities": [
+      "balcony",
+      "gym",
+      "parking",
+      "pool"
+    ],
+    "available": true
+  },
+  {
+    "id": 60,
+    "address": "654 Violet Avenue, Houston, TX",
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "rent": 2211,
+    "pets": "no pets",
+    "amenities": [
+      "balcony",
+      "garden",
+      "gym",
+      "laundry",
+      "parking"
+    ],
+    "available": true
+  },
+  {
+    "id": 61,
+    "address": "861 Rose Court, Dallas, TX",
+    "bedrooms": 4,
+    "bathrooms": 1,
+    "rent": 2845,
+    "pets": "no pets",
+    "amenities": [
+      "balcony",
+      "garden",
+      "gym",
+      "laundry",
+      "parking"
+    ],
+    "available": true
+  },
+  {
+    "id": 62,
+    "address": "660 Fennel Street, Houston, TX",
+    "bedrooms": 2,
+    "bathrooms": 3,
+    "rent": 1172,
+    "pets": "no pets",
+    "amenities": [
+      "gym",
+      "parking"
+    ],
+    "available": true
+  },
+  {
+    "id": 63,
+    "address": "975 Chive Place, Austin, TX",
+    "bedrooms": 4,
+    "bathrooms": 1,
+    "rent": 2754,
+    "pets": "cats and dogs allowed",
+    "amenities": [
+      "balcony",
+      "laundry",
+      "parking",
+      "pool"
+    ],
+    "available": true
+  },
+  {
+    "id": 64,
+    "address": "347 Chive Boulevard, San Antonio, TX",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "rent": 1098,
+    "pets": "no pets",
+    "amenities": [
+      "gym",
+      "parking",
+      "pool"
+    ],
+    "available": true
+  },
+  {
+    "id": 65,
+    "address": "286 Poplar Place, Dallas, TX",
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "rent": 2614,
+    "pets": "no pets",
+    "amenities": [
+      "garden",
+      "gym"
+    ],
+    "available": true
+  },
+  {
+    "id": 66,
+    "address": "183 Thyme Court, San Antonio, TX",
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "rent": 2030,
+    "pets": "cats and dogs allowed",
+    "amenities": [
+      "balcony",
+      "laundry"
+    ],
+    "available": true
+  },
+  {
+    "id": 67,
+    "address": "533 Carnation Court, Dallas, TX",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "rent": 2240,
+    "pets": "cats and dogs allowed",
+    "amenities": [
+      "balcony",
+      "laundry",
+      "pool"
+    ],
+    "available": true
+  },
+  {
+    "id": 68,
+    "address": "187 Magnolia Drive, Austin, TX",
+    "bedrooms": 3,
+    "bathrooms": 4,
+    "rent": 1829,
+    "pets": "dogs allowed",
+    "amenities": [
+      "balcony",
+      "gym",
+      "parking"
+    ],
+    "available": true
+  },
+  {
+    "id": 69,
+    "address": "612 Mango Lane, Dallas, TX",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "rent": 1757,
+    "pets": "cats allowed",
+    "amenities": [
+      "balcony",
+      "gym",
+      "laundry",
+      "parking",
+      "pool"
+    ],
+    "available": true
+  },
+  {
+    "id": 70,
+    "address": "534 Peach Place, Austin, TX",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "rent": 1023,
+    "pets": "no pets",
+    "amenities": [
+      "balcony",
+      "gym",
+      "laundry",
+      "parking",
+      "pool"
+    ],
+    "available": true
+  },
+  {
+    "id": 71,
+    "address": "466 Elm Trail, Houston, TX",
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "rent": 1774,
+    "pets": "cats allowed",
+    "amenities": [
+      "balcony",
+      "garden",
+      "gym",
+      "laundry",
+      "parking"
+    ],
+    "available": true
+  },
+  {
+    "id": 72,
+    "address": "908 Parsley Avenue, Houston, TX",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "rent": 1246,
+    "pets": "no pets",
+    "amenities": [
+      "balcony",
+      "gym",
+      "laundry",
+      "parking"
+    ],
+    "available": true
+  },
+  {
+    "id": 73,
+    "address": "950 Sunflower Way, San Antonio, TX",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "rent": 900,
+    "pets": "dogs allowed",
+    "amenities": [
+      "balcony",
+      "garden",
+      "gym",
+      "laundry",
+      "pool"
+    ],
+    "available": true
+  },
+  {
+    "id": 74,
+    "address": "943 Ash Drive, Austin, TX",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "rent": 1613,
+    "pets": "cats allowed",
+    "amenities": [
+      "balcony",
+      "gym",
+      "parking",
+      "pool"
+    ],
+    "available": true
+  },
+  {
+    "id": 75,
+    "address": "465 Rose Way, Austin, TX",
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "rent": 2392,
+    "pets": "cats allowed",
+    "amenities": [
+      "balcony",
+      "gym"
+    ],
+    "available": true
+  },
+  {
+    "id": 76,
+    "address": "431 Iris Boulevard, Austin, TX",
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "rent": 2434,
+    "pets": "cats allowed",
+    "amenities": [
+      "gym",
+      "laundry"
+    ],
+    "available": true
+  },
+  {
+    "id": 77,
+    "address": "832 Ash Circle, Houston, TX",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "rent": 1543,
+    "pets": "no pets",
+    "amenities": [
+      "balcony",
+      "garden",
+      "laundry",
+      "parking"
+    ],
+    "available": true
+  },
+  {
+    "id": 78,
+    "address": "267 Ash Drive, San Antonio, TX",
+    "bedrooms": 1,
+    "bathrooms": 2,
+    "rent": 900,
+    "pets": "dogs allowed",
+    "amenities": [
+      "balcony",
+      "pool"
+    ],
+    "available": true
+  },
+  {
+    "id": 79,
+    "address": "745 Grape Court, Austin, TX",
+    "bedrooms": 1,
+    "bathrooms": 2,
+    "rent": 1274,
+    "pets": "dogs allowed",
+    "amenities": [
+      "balcony",
+      "gym",
+      "laundry",
+      "parking",
+      "pool"
+    ],
+    "available": true
+  },
+  {
+    "id": 80,
+    "address": "690 Pine Trail, San Antonio, TX",
+    "bedrooms": 4,
+    "bathrooms": 1,
+    "rent": 2188,
+    "pets": "dogs allowed",
+    "amenities": [
+      "garden",
+      "gym",
+      "parking",
+      "pool"
+    ],
+    "available": true
+  },
+  {
+    "id": 81,
+    "address": "395 Coconut Trail, Austin, TX",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "rent": 1952,
+    "pets": "dogs allowed",
+    "amenities": [
+      "balcony",
+      "gym",
+      "laundry",
+      "parking"
+    ],
+    "available": true
+  },
+  {
+    "id": 82,
+    "address": "675 Elm Lane, Austin, TX",
+    "bedrooms": 2,
+    "bathrooms": 3,
+    "rent": 1408,
+    "pets": "dogs allowed",
+    "amenities": [
+      "balcony",
+      "garden",
+      "gym",
+      "laundry",
+      "pool"
+    ],
+    "available": true
+  },
+  {
+    "id": 83,
+    "address": "329 Oregano Circle, Austin, TX",
+    "bedrooms": 1,
+    "bathrooms": 2,
+    "rent": 1081,
+    "pets": "dogs allowed",
+    "amenities": [
+      "garden",
+      "gym",
+      "laundry",
+      "parking",
+      "pool"
+    ],
+    "available": true
+  },
+  {
+    "id": 84,
+    "address": "973 Magnolia Street, Houston, TX",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "rent": 1140,
+    "pets": "no pets",
+    "amenities": [
+      "balcony",
+      "gym",
+      "laundry",
+      "parking",
+      "pool"
+    ],
+    "available": true
+  },
+  {
+    "id": 85,
+    "address": "562 Chive Circle, Dallas, TX",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "rent": 1610,
+    "pets": "dogs allowed",
+    "amenities": [
+      "balcony",
+      "garden",
+      "laundry",
+      "parking",
+      "pool"
+    ],
+    "available": true
+  },
+  {
+    "id": 86,
+    "address": "374 Dill Court, Houston, TX",
+    "bedrooms": 1,
+    "bathrooms": 2,
+    "rent": 900,
+    "pets": "cats and dogs allowed",
+    "amenities": [
+      "gym",
+      "parking"
+    ],
+    "available": true
+  },
+  {
+    "id": 87,
+    "address": "694 Dill Boulevard, Dallas, TX",
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "rent": 1896,
+    "pets": "dogs allowed",
+    "amenities": [
+      "laundry",
+      "parking",
+      "pool"
+    ],
+    "available": true
+  },
+  {
+    "id": 88,
+    "address": "374 Mint Circle, Houston, TX",
+    "bedrooms": 3,
+    "bathrooms": 4,
+    "rent": 1619,
+    "pets": "dogs allowed",
+    "amenities": [
+      "balcony",
+      "gym",
+      "laundry"
+    ],
+    "available": true
+  },
+  {
+    "id": 89,
+    "address": "401 Rose Way, Dallas, TX",
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "rent": 2725,
+    "pets": "cats allowed",
+    "amenities": [
+      "balcony",
+      "garden",
+      "laundry",
+      "pool"
+    ],
+    "available": true
+  },
+  {
+    "id": 90,
+    "address": "414 Coconut Street, Dallas, TX",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "rent": 1322,
+    "pets": "cats allowed",
+    "amenities": [
+      "gym",
+      "laundry",
+      "parking"
+    ],
+    "available": true
+  },
+  {
+    "id": 91,
+    "address": "373 Grape Street, Austin, TX",
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "rent": 1763,
+    "pets": "cats and dogs allowed",
+    "amenities": [
+      "balcony",
+      "garden",
+      "laundry",
+      "parking",
+      "pool"
+    ],
+    "available": true
+  },
+  {
+    "id": 92,
+    "address": "272 Lime Lane, San Antonio, TX",
+    "bedrooms": 3,
+    "bathrooms": 4,
+    "rent": 1646,
+    "pets": "dogs allowed",
+    "amenities": [
+      "balcony",
+      "gym",
+      "parking"
+    ],
+    "available": true
+  },
+  {
+    "id": 93,
+    "address": "905 Banana Place, San Antonio, TX",
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "rent": 1492,
+    "pets": "no pets",
+    "amenities": [
+      "gym",
+      "laundry",
+      "pool"
+    ],
+    "available": true
+  },
+  {
+    "id": 94,
+    "address": "836 Orange Drive, Dallas, TX",
+    "bedrooms": 1,
+    "bathrooms": 2,
+    "rent": 983,
+    "pets": "cats and dogs allowed",
+    "amenities": [
+      "balcony",
+      "laundry",
+      "parking",
+      "pool"
+    ],
+    "available": true
+  },
+  {
+    "id": 95,
+    "address": "336 Cilantro Lane, Houston, TX",
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "rent": 2177,
+    "pets": "cats allowed",
+    "amenities": [
+      "balcony",
+      "gym",
+      "laundry",
+      "parking",
+      "pool"
+    ],
+    "available": true
+  },
+  {
+    "id": 96,
+    "address": "897 Tulip Circle, Dallas, TX",
+    "bedrooms": 4,
+    "bathrooms": 1,
+    "rent": 2981,
+    "pets": "cats and dogs allowed",
+    "amenities": [
+      "balcony",
+      "garden",
+      "parking"
+    ],
+    "available": true
+  },
+  {
+    "id": 97,
+    "address": "952 Sunflower Circle, San Antonio, TX",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "rent": 900,
+    "pets": "dogs allowed",
+    "amenities": [
+      "balcony",
+      "gym",
+      "parking",
+      "pool"
+    ],
+    "available": true
+  },
+  {
+    "id": 98,
+    "address": "626 Poplar Street, Austin, TX",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "rent": 1469,
+    "pets": "dogs allowed",
+    "amenities": [
+      "parking",
+      "pool"
+    ],
+    "available": true
+  },
+  {
+    "id": 99,
+    "address": "239 Mint Way, Austin, TX",
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "rent": 1914,
+    "pets": "cats allowed",
+    "amenities": [
+      "balcony",
+      "laundry"
+    ],
+    "available": true
+  },
+  {
+    "id": 100,
+    "address": "426 Iris Trail, San Antonio, TX",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "rent": 1360,
+    "pets": "cats and dogs allowed",
+    "amenities": [
+      "balcony",
+      "garden",
+      "laundry",
+      "parking",
+      "pool"
+    ],
+    "available": true
+  }
+]

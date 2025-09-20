@@ -1,0 +1,138 @@
+{
+  "analyze_intent": {
+    "description": "Analyzes user intent using OpenAI GPT",
+    "inputs": [
+      "user_query",
+      "conversation_history"
+    ],
+    "outputs": [
+      "intent",
+      "entities",
+      "confidence"
+    ],
+    "external_apis": [
+      "OpenAI Chat Completions"
+    ],
+    "processing_time": "~800ms",
+    "next_steps": [
+      "search_properties",
+      "get_available_slots",
+      "create_calendar_event",
+      "generate_response"
+    ]
+  },
+  "search_properties": {
+    "description": "Searches property database based on extracted entities",
+    "inputs": [
+      "entities",
+      "search_filters"
+    ],
+    "outputs": [
+      "properties",
+      "search_results"
+    ],
+    "external_apis": [],
+    "database_access": [
+      "property_data.txt"
+    ],
+    "processing_time": "~50ms",
+    "next_steps": [
+      "generate_response"
+    ]
+  },
+  "get_available_slots": {
+    "description": "Retrieves available appointment slots from calendar",
+    "inputs": [
+      "date_preference",
+      "property_id"
+    ],
+    "outputs": [
+      "available_slots"
+    ],
+    "external_apis": [
+      "Google Calendar API"
+    ],
+    "processing_time": "~200ms",
+    "next_steps": [
+      "collect_user_info",
+      "generate_response"
+    ]
+  },
+  "collect_user_info": {
+    "description": "Extracts user information from conversation history",
+    "inputs": [
+      "conversation_history",
+      "entities"
+    ],
+    "outputs": [
+      "user_name",
+      "user_email",
+      "user_phone",
+      "user_pets"
+    ],
+    "external_apis": [],
+    "processing_time": "~10ms",
+    "next_steps": [
+      "create_calendar_event",
+      "generate_response"
+    ]
+  },
+  "create_calendar_event": {
+    "description": "Creates Google Calendar event for property tour",
+    "inputs": [
+      "appointment_details",
+      "user_info",
+      "property_info"
+    ],
+    "outputs": [
+      "calendar_event_id",
+      "appointment_confirmation"
+    ],
+    "external_apis": [
+      "Google Calendar API"
+    ],
+    "processing_time": "~300ms",
+    "next_steps": [
+      "send_sms_confirmation",
+      "generate_response"
+    ]
+  },
+  "send_sms_confirmation": {
+    "description": "Sends SMS confirmation via Twilio",
+    "inputs": [
+      "user_phone",
+      "appointment_details"
+    ],
+    "outputs": [
+      "sms_sent",
+      "sms_result"
+    ],
+    "external_apis": [
+      "Twilio SMS API"
+    ],
+    "processing_time": "~500ms",
+    "next_steps": [
+      "generate_response"
+    ]
+  },
+  "generate_response": {
+    "description": "Generates natural language response using OpenAI",
+    "inputs": [
+      "user_query",
+      "intent",
+      "properties",
+      "appointment_details"
+    ],
+    "outputs": [
+      "response_message",
+      "suggested_actions"
+    ],
+    "external_apis": [
+      "OpenAI Chat Completions"
+    ],
+    "processing_time": "~1000ms",
+    "next_steps": [
+      "END"
+    ]
+  }
+}
