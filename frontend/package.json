@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "React frontend for PropertyTek AI Chatbot",
   "private": true,
+  "homepage": "https://emtiaz-ruet.github.io/propertytek-ai",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
@@ -47,21 +48,6 @@
     ]
   },
   "proxy": "http://localhost:8000",
-  "homepage": "https://emtiaz-ruet.github.io/propertytek-ai",
-  "devDependencies": {
-    "gh-pages": "^6.1.0"
-  }
-}
-  "homepage": "https://emtiaz-ruet.github.io/propertytek-texas-rentals",
-  "scripts": {
-    "start": "react-scripts start",
-    "dev": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
-  },
   "devDependencies": {
     "gh-pages": "^6.1.0"
   }
